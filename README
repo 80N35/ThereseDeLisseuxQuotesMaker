@@ -1,0 +1,9 @@
+Theres Quotes!
+
+Just install fortune-mod (most distros or search for any fortune application and install that).  Drop "therese" and "therese.dat" into your home
+directory and type "fortune therese".  If you get an error just rebuild the database with "strfile therese"
+
+I have her quote command in my shell script so it runs automatically and I make an alias of "amen" if I want to hear another.
+
+Thank you, Saint Therese!  Friggin beautiful genius who saved me!
+
